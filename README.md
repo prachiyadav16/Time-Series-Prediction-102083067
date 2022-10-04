@@ -1,1 +1,1 @@
-# Time-Series-Prediction-102083067
+Using Random Tree Regresoor Algorithm we predicted values of five variables.A random forest is a meta estimator that fits a number of classifying decision trees on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting. We used it to predict the values of Paragraph 9,10,11,12 using Google Colab uploaded above.
